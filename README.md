@@ -24,3 +24,9 @@ https://github.com/aws/aws-sdk-js-v3/tree/main/lib/lib-dynamodb
 |       Set\<Number, BigInt\>       | NS                      |
 |           Set\<String\>           | SS                      |
 | Uint8Array, Buffer, File, Blob... | B                       |
+
+## TODO
+- decide tables that are required
+- decide structure of tables
+- create read queries
+- create write mutations
